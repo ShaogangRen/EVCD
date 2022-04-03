@@ -1,5 +1,5 @@
 # EVCD
-This is a demo implementation of paper  'Causal Discovery with Flow-based Conditional Density Estimation', ICDM2021.
+This is a demo implementation of the paper  'Causal Discovery with Flow-based Conditional Density Estimation', ICDM2021.
 
 ## Run the code
 
@@ -14,7 +14,7 @@ python3 run_evcd_grid.py
 ## Setups
 You can modify run_evcd_grid.py to reset the dataset, learning rate, etc. 
 
-For the tuebingen dataset in Causal Discovery Toolbox, the setup in run_evcd_grid.py
+For the Tuebingen dataset in Causal Discovery Toolbox, the setup in run_evcd_grid.py
 can achieve  better results (0.707) than the value reported in the paper.
 
 Some of the code files were adapted based on ffjord (https://github.com/rtqichen/ffjord).
