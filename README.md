@@ -1,4 +1,4 @@
-# EVCD
+# EVCD Causal Discovery
 This is a demo implementation of the paper  'Causal Discovery with Flow-based Conditional Density Estimation', ICDM2021.
 
 ## Run the code
