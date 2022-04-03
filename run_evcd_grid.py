@@ -85,7 +85,7 @@ def train_flow_evcd(param):
 def grid_search():
                 
     flow_depth = [2]
-    lr = [0.001]
+    lr = [0.001, 0.0001]
     max_epoch = [800,1500]
     w_init_sigma = [0.1] #0.01,
     #data_sets = ["tuebingen", "dream4-1", "dream4-2", "dream4-3", "dream4-4", "dream4-5"]
