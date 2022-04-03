@@ -1,5 +1,5 @@
 """
-grid search for fg
+grid search
 """
 import cdt.causality.pairwise 
 import cdt.causality.graph
