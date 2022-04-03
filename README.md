@@ -11,7 +11,7 @@ Run the the example code (grid search on parameters):
 ```
 python3 run_evcd_grid.py
 ```
-## Setups
+## Change the Setup
 You can modify run_evcd_grid.py to reset the dataset, learning rate, etc. 
 
 For the Tuebingen dataset in Causal Discovery Toolbox, the setup in run_evcd_grid.py
