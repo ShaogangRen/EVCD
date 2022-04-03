@@ -15,7 +15,7 @@ python3 run_evcd_grid.py
 You can modify run_evcd_grid.py to reset the dataset, learning rate, etc. 
 
 For the tuebingen dataset in Causal Discovery Toolbox, the setup in run_evcd_grid.py
-can achieve  better results than the value reported in the paper.
+can achieve  better results (0.707) than the value reported in the paper.
 
 Some of the code files were adapted based on ffjord (https://github.com/rtqichen/ffjord).
 
