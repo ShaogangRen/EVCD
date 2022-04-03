@@ -6,7 +6,7 @@ This is a demo implementation of paper  'Causal Discovery with Flow-based Condit
 To run the code, you need to install Causal Discovery Toolbox (CDT)
 (https://fentechsolutions.github.io/CausalDiscoveryToolbox/html/index.html).
 
-Run the grid search example code:
+Run the the example code (grid search on parameters):
 
 ```
 python3 run_evcd_grid.py
