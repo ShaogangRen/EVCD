@@ -21,7 +21,6 @@ Some of the code files were adapted from ffjord (https://github.com/rtqichen/ffj
 
 
 ## Citation
-If it is helpful to you, please cite our work
 ```
 @inproceedings{ren2021causal,
   title={Causal Discovery with Flow-based Conditional Density Estimation},
