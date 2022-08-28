@@ -1,6 +1,6 @@
 # EVCD Causal Discovery
 This is a demo implementation of the paper  'Causal Discovery with Flow-based Conditional Density Estimation', ICDM2021.
-Paper: https://drive.google.com/file/d/1FK_tE6_Q9xbNDqF0WLAl7l_ssaItFG4O/view?usp=sharing
+Paper: https://github.com/ShaogangRen/EVCD/blob/main/Causal%20Discovery%20with%20Flow-based%20Conditional%20Density%20Estimation.pdf
 ## Run the code
 
 To run the code, you need to install Causal Discovery Toolbox (CDT)
